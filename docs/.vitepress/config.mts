@@ -36,9 +36,9 @@ export default defineConfig({
           {
             text: 'Examples',
             items: [
-              { text: 'Example 1', link: '/examples/1' },
-              { text: 'Example 2', link: '/examples/2' },
-              { text: 'Example 3', link: '/examples/3' }
+              { text: 'Example 1', link: '/en/examples/1' },
+              { text: 'Example 2', link: '/en/examples/2' },
+              { text: 'Example 3', link: '/en/examples/3' }
             ]
           }
         ],
