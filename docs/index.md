@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Shanghai Surround Interior Design Co"
+  name: "上海环绕室内设计"
   text: ""
   # tagline: My great project tagline
   actions:
@@ -15,11 +15,11 @@ hero:
     #   link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 特性 A
+    details: 乱数假文排版用，无实际意义示例文本
+  - title: 特性 B
+    details: 乱数假文排版用，无实际意义示例文本
+  - title: 特性 C
+    details: 乱数假文排版用，无实际意义示例文本
 ---
 
